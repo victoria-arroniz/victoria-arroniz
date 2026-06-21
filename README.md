@@ -1,7 +1,7 @@
 # Victoria Arróniz
 
 MSc Statistics & Data Science — University College Dublin.
-Building at the intersection of emerging technologies and EU digital regulation — with hands-on projects in AI Act & DSA compliance, machine learning, Bayesian inference and geospatial analytics.
+Building at the intersection of emerging technologies and EU digital regulation — with hands-on projects in AI Act compliance, machine learning, Bayesian inference and geospatial analytics.
 
 ---
 
@@ -9,7 +9,7 @@ Building at the intersection of emerging technologies and EU digital regulation 
 
 | Area | Tools |
 |---|---|
-| AI compliance & EU regulation | EU AI Act · DSA · RAG pipelines · ChromaDB |
+| AI compliance & EU regulation | EU AI Act · TF-IDF RAG · Claude API · Streamlit |
 | Machine learning & deep learning | scikit-learn · caret · keras3 · tfruns |
 | Bayesian inference & MCMC | Stan · rstan · custom MH samplers |
 | Statistical modelling | R · GLMs · PCA · LDA · PCR |
