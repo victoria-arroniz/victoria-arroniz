@@ -22,7 +22,7 @@ Building at the intersection of emerging technologies and EU digital regulation 
 
 | Repo | Description |
 |---|---|
-| [aicomply](https://github.com/victoria-arroniz/aicomply) | RAG chatbot for EU AI Act and DSA compliance — Streamlit, Claude API, ChromaDB |
+| [aicomply](https://github.com/victoria-arroniz/aicomply) | EU AI Act compliance chatbot — TF-IDF RAG pipeline, Claude API, Streamlit · risk classification and compliance reporting for SMEs |
 | [topological-data-analysis](https://github.com/victoria-arroniz/topological-data-analysis) | MSc research — funTDA pipeline: persistent homology on gene regulatory networks and time series, functional PCA and permutation tests · Python · R |
 | [activity-recognition-deep-learning](https://github.com/victoria-arroniz/activity-recognition-deep-learning) | DNN vs 1D CNN for 19-class activity recognition — R, keras3, LHS hyperparameter tuning (99.4% val accuracy) |
 | [bayesian-inference](https://github.com/victoria-arroniz/bayesian-inference) | From Beta-Binomial conjugate models to hierarchical Stan — rstan, LOO-CV, posterior predictive checks |
