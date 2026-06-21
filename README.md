@@ -1,7 +1,7 @@
 # Victoria Arróniz
 
 MSc Statistics & Data Science — University College Dublin.
-Working at the intersection of machine learning, Bayesian inference and EU digital policy (AI Act, DSA).
+Building at the intersection of emerging technologies and EU digital regulation — with hands-on projects in AI Act & DSA compliance, machine learning, Bayesian inference and geospatial analytics.
 
 ---
 
@@ -9,12 +9,12 @@ Working at the intersection of machine learning, Bayesian inference and EU digit
 
 | Area | Tools |
 |---|---|
-| Machine learning | scikit-learn · caret · keras3 · tfruns |
+| AI compliance & EU regulation | EU AI Act · DSA · RAG pipelines · ChromaDB |
+| Machine learning & deep learning | scikit-learn · caret · keras3 · tfruns |
 | Bayesian inference & MCMC | Stan · rstan · custom MH samplers |
 | Statistical modelling | R · GLMs · PCA · LDA · PCR |
 | Geospatial analytics | sf · tmap · rnaturalearth |
-| Data analytics & EDA | Python · pandas · ggplot2 · seaborn |
-| AI compliance | RAG chatbots · ChromaDB · EU AI Act · DSA |
+| Data analytics & automation | Python · pandas · ggplot2 · seaborn |
 
 ---
 
@@ -22,6 +22,7 @@ Working at the intersection of machine learning, Bayesian inference and EU digit
 
 | Repo | Description |
 |---|---|
+| [aicomply](https://github.com/victoria-arroniz/aicomply) | RAG chatbot for EU AI Act and DSA compliance — Streamlit, Claude API, ChromaDB |
 | [activity-recognition-deep-learning](https://github.com/victoria-arroniz/activity-recognition-deep-learning) | DNN vs 1D CNN for 19-class activity recognition — R, keras3, LHS hyperparameter tuning (99.4% val accuracy) |
 | [bayesian-inference](https://github.com/victoria-arroniz/bayesian-inference) | From Beta-Binomial conjugate models to hierarchical Stan — rstan, LOO-CV, posterior predictive checks |
 | [monte-carlo-methods](https://github.com/victoria-arroniz/monte-carlo-methods) | Direct sampling, importance sampling and MH-MCMC from scratch — including Bayesian regression on real data |
@@ -29,7 +30,6 @@ Working at the intersection of machine learning, Bayesian inference and EU digit
 | [holocene-volcanoes-geospatial](https://github.com/victoria-arroniz/holocene-volcanoes-geospatial) | Geospatial mapping and permutation tests on 1,229 Holocene volcanoes — sf, tmap |
 | [neural-network-from-scratch](https://github.com/victoria-arroniz/neural-network-from-scratch) | Backpropagation and mini-batch SGD implemented in NumPy — no ML frameworks |
 | [telecom-churn-ml](https://github.com/victoria-arroniz/telecom-churn-ml) | End-to-end churn prediction: EDA, Random Forest, K-means and Spectral Clustering — Python |
-| [aicomply](https://github.com/victoria-arroniz/aicomply) | RAG chatbot for EU AI Act and DSA compliance — Streamlit, Claude API, ChromaDB |
 
 ---
 
